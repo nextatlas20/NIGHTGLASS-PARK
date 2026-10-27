@@ -1,0 +1,6 @@
+sequence,artwork_id,title,zone,alert_threshold,status
+10,NG-201,Ember Arch,North Walk,7,ON_VIEW
+20,NG-202,Rain Dial,Canal Court,5,ON_VIEW
+30,NG-203,Salt Mirror,Archive Bay,8,ARCHIVE
+40,NG-204,Kite Spine,West Lawn,6,ON_VIEW
+50,NG-205,Moss Bell,East Grove,4,ON_VIEW
