@@ -1,0 +1,5 @@
+sequence,artwork_id,title,zone,review_state,window_samples,threshold_breaches,latest_observed_at
+10,NG-201,Ember Arch,North Walk,INTERVENE,3,2,2026-10-14T12:00Z
+20,NG-202,Rain Dial,Canal Court,WATCH,3,1,2026-10-14T11:30Z
+40,NG-204,Kite Spine,West Lawn,INSUFFICIENT_DATA,2,1,2026-10-14T10:15Z
+50,NG-205,Moss Bell,East Grove,INSUFFICIENT_DATA,0,0,
